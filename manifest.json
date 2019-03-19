@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "18.11.0",
+    "commerceSuiteVersion": "1811.4",
     "extensions": [
         "kymaintegrationbackoffice",
         "kymaintegrationsampledata",
@@ -28,8 +28,6 @@
         "assistedservicewebservices",
         "customersupportbackoffice",
         "profileservices",
-        "yaasconfigurationbackoffice",
-        "yaasconfiguration",
         "textfieldconfiguratortemplatebackoffice",
         "cmswebservices",
         "smarteditwebservices",
