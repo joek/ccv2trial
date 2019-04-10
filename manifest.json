@@ -317,6 +317,10 @@
             "name": "api",
             "webapps": [
                 {
+                     "name": "adminapi",
+                     "contextPath": "/adminapi"
+                },
+                {
                     "name": "ycommercewebservices",
                     "contextPath": "/rest"
                 },
