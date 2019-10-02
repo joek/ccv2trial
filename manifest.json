@@ -64,7 +64,7 @@
         "odata2webservices",
         "odata2webservicesfeaturetests",
         "kymaintegrationbackoffice",
-        "yb2bacceleratorstorefront"
+        "spartacussampledataaddon"
     ],
     "properties": [
         {
@@ -78,10 +78,6 @@
         {
             "key": "website.electronics.https",
             "value": "https://accstorefront.crz8nbwca-internalc6-d6-public.model-t.cc.commerce.ondemand.com/"
-        },
-        {
-            "key": "lang.packs",
-            "value": "de,en,es,es_CO,fr,it,ja,ko,pt,ru,zh,zh_TW,hi,id,cs,cy"
         },
         {
             "key":"oauth2.kyma.algorithm",
@@ -154,18 +150,8 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "assistedservicestorefront",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
             "addon": "commerceorgsamplesaddon",
             "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "commerceorgsamplesaddon",
-            "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
         {
@@ -174,18 +160,8 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "customerticketingaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
             "addon": "promotionenginesamplesaddon",
             "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "promotionenginesamplesaddon",
-            "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
         {
@@ -194,18 +170,8 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "textfieldconfiguratortemplateaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
             "addon": "orderselfserviceaddon",
             "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "orderselfserviceaddon",
-            "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
         {
@@ -214,18 +180,8 @@
             "template": "yacceleratorstorefront"
         },
         {
-            "addon": "smarteditaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
             "addon": "sapcoreaddon",
             "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "sapcoreaddon",
-            "storefront": "yb2bacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
         {
@@ -233,43 +189,7 @@
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-        {
-            "addon": "pcmbackofficesamplesaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
         
-        {
-            "addon": "b2bacceleratoraddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "commerceorgaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "ysapordermgmtb2baddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "secureportaladdon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        
-        {
-            "addon": "acceleratorwebservicesaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "ycommercewebservices"
-        },
-        {
-            "addon": "cmsoccaddon",
-            "storefront": "yb2bacceleratorstorefront",
-            "template": "ycommercewebservices"
-        },
         {
             "addon": "assistedservicestorefront",
             "storefront": "yacceleratorstorefront",
@@ -382,6 +302,11 @@
         },
         {
             "addon": "eventtrackingwsaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+        {
+            "addon": "spartacussampledataaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
